@@ -1,6 +1,6 @@
 {
   "name": "redux-automate-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility to reduce efforts in writing reducers. It is a typescript port of spaceuptech's automate-redux.",
   "main": "index.js",
   "types": "index.d.ts",
