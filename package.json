@@ -1,0 +1,43 @@
+{
+  "name": "redux-automate-ts",
+  "version": "1.0.0",
+  "description": "A utility to reduce efforts in writing reducers. It is a typescript port of spaceuptech's automate-redux.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha",
+    "build": "tsc"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hrishikesh-Bhagwat/automate-redux-ts.git"
+  },
+  "keywords": [
+    "redux",
+    "reducers",
+    "typescript",
+    "automate-redux"
+  ],
+  "author": "Hrishikesh Bhagwat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hrishikesh-Bhagwat/automate-redux-ts/issues"
+  },
+  "homepage": "https://github.com/Hrishikesh-Bhagwat/automate-redux-ts#readme",
+  "dependencies": {
+    "dot-prop-immutable": "^2.1.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "mocha": "^10.2.0",
+    "redux": "^4.2.1",
+    "typescript": "^5.1.6"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
+}
